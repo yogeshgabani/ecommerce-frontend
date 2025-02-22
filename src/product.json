@@ -1,0 +1,1068 @@
+{
+  "product": [
+    {
+      "_id": {
+        "$oid": "67777f0bfdfd6ef898062c1f"
+      },
+      "productName": "mouse",
+      "description": "wireless mouse and wired mouse",
+      "price": 299,
+      "stock": 10,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "numericId": 5,
+      "createdAt": {
+        "$date": "2025-01-03T06:09:15.298Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T05:52:14.061Z"
+      },
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "productImage": [
+        "./src/assets/images/2.jpeg",
+        "./src/assets/images/hero_bg1.jpg",
+        "./src/assets/images/2.jpeg",
+        "./src/assets/images/hero_bg1.jpg",
+        "./src/assets/images/2.jpeg"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "677793d443648e29a532600e"
+      },
+      "productName": "Mohania cryst Cosmetic & Make-up Organizers",
+      "description": "Plastic adjustable 4 rod Bangle Box Chudi Set Organizer Jewellery Storage Display Box for Bangles Chudi Bracelet Wrist Watch Hair Bands Scrunchies Accessories, Transparent Jewellery Boxes jewellery box Material : Plastic No. of Compartments : 1 Net Quantity (N) : Pack of 1 Plastic adjustable 4 rod Bangle Box Chudi Set Organizer Jewellery Storage Display Box for Bangles Chudi Bracelet Wrist Watch Hair Bands Scrunchies Accessories, Transparent Jewellery Boxes Country of Origin : India",
+      "price": 296,
+      "stock": 490,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 4,
+      "createdAt": {
+        "$date": "2025-01-03T07:37:56.885Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T05:07:40.603Z"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-211281464.webp\n",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-247635775.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-105361590.webp\n"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "677b6340acfcf823be654d23"
+      },
+      "productName": "bottles",
+      "description": "Plastic water botteles for more store and long life",
+      "price": 199,
+      "stock": 0,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "rating": {
+        "average": 0,
+        "totalRatings": 0,
+        "userRatings": []
+      },
+      "numericId": 6,
+      "createdAt": {
+        "$date": "2025-01-06T04:59:44.280Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-06T06:17:56.434Z"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-211281464.webp\n",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-247635775.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-105361590.webp\n"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "677bc6392d46459847780e16"
+      },
+      "productName": "MAGICAL Floral Double Mink Blanket for Heavy Winter  (Microfiber, Brown)",
+      "description": "Come night-time, all you want to do is get into bed and snuggle up under a warm and cuddly blanket. With this fleece printed blanket , you can feel toasty warm, especially during those cold winter nights.made with fleece material-this blanket is made with fleece, which is a woolen coat that provides warmth and comfort to your body at night.machine washable-you can remove all the dirt and dust of this blanket by putting it into the washing machine. This helps save on time and effort.",
+      "price": 599,
+      "stock": 90,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-211281464.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-247635775.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-105361590.webp"
+      ],
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 9,
+      "createdAt": {
+        "$date": "2025-01-06T12:02:01.781Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T05:07:40.605Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "677bc8ab2d46459847780e1c"
+      },
+      "productName": "Portronics Key5 Combo POR-1569 Wireless Laptop Keyboard  (Grey)",
+      "description": "Buy Portronics Key 5 Wireless Keyboard and Mouse Combo and get to experience its awesome features. Comes with reliable 2.4GHz wireless connection: small nano-receiver connects both keyboard and mouse using only one USB port. Includes full-size keyboard with cool, low-profile keys, as well as a portable outlined mouse for comfortable control. Easy plug and play for Windows PC: Windows XP works well with Vista, Vista, Windows 7 and 8 thinking differently - no software installation required.",
+      "price": 699,
+      "stock": 100,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165547737-335821442.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165547737-849919866.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165547738-25327747.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165547738-579229509.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165547738-838795098.webp"
+      ],
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 10,
+      "createdAt": {
+        "$date": "2025-01-06T12:12:27.748Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-06T12:13:40.403Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "677bc8f42d46459847780e22"
+      },
+      "productName": "Logitech MK215 Mouse & Keyboard Combo, Compact Design Wireless Laptop Keyboard  (Black)\n",
+      "description": "n the case of a Wireless mouse, the USB receiver is provided inside or along with the mouse",
+      "price": 399,
+      "stock": 100,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165620390-477645900.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165620390-442491515.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165620390-76406848.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165620391-511751995.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736165620391-720893521.webp"
+      ],
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 11,
+      "createdAt": {
+        "$date": "2025-01-06T12:13:40.400Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-06T12:47:33.092Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "677bd0e513cd6f46924100d3"
+      },
+      "productName": "HP X200 / Perfect Palm fit., built-in battery indicator, upto 1600 DPI Wireless Laser Mouse  (2.4GHz Wireless, Black)",
+      "description": "n the case of a Wireless mouse, the USB receiver is provided inside or along with the mouse",
+      "price": 399,
+      "stock": 100,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167653065-695762737.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167653065-416252565.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167653065-200236788.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167653065-132978974.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167653066-204330462.webp"
+      ],
+      "vendorId": {
+        "$oid": "677bc97aec0366603502903e"
+      },
+      "numericId": 12,
+      "createdAt": {
+        "$date": "2025-01-06T12:47:33.089Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-06T12:49:43.267Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "677bd16713cd6f46924100d9"
+      },
+      "productName": "Portronics Toad IV Bluetooth mouse with 2.4 GHz Wireless, Rechargeable, Connect 3 Devices Wireless Optical Mouse  (Bluetooth, 2.4GHz Wireless, White)",
+      "description": "\nToad IV Bluetooth mouse with 2.4 GHz Wireless, Rechargeable, Connect 3 Devices",
+      "price": 499,
+      "stock": 100,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167783252-32520547.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167783253-210721736.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167783253-123376862.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167783253-737074207.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736167783253-421304200.webp"
+      ],
+      "vendorId": {
+        "$oid": "677bc97aec0366603502903e"
+      },
+      "numericId": 13,
+      "createdAt": {
+        "$date": "2025-01-06T12:49:43.265Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-08T11:06:30.683Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "677e5c36238180c94e7b03d0"
+      },
+      "productName": "Lenovo 60.45 cm (23.8 inch) Full HD VA Panel 3-Side Near Edgeless",
+      "description": "The Lenovo 60.45 cm (23.8) Full HD VA Panel (D24-20) monitor is equipped with AMD FreeSync technology which eliminates gaming roadblocks, such as motion blur and input lags, to facilitate an amazing gaming experience",
+      "price": 6699,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736334390655-519268690.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736334390655-112033592.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736334390656-222815946.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736334390656-296574048.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736334390656-940810026.webp"
+      ],
+      "vendorId": {
+        "$oid": "677bc97aec0366603502903e"
+      },
+      "numericId": 14,
+      "createdAt": {
+        "$date": "2025-01-08T11:06:30.680Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:37:24.038Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67821fb4facafd96b85db5ba"
+      },
+      "productName": "Men Checkered Hooded Neck Cotton Blend Blue T-Shirt",
+      "description": "Refresh your wardrobe with the new range of Summer Collections of Cotton regular fit hooded tshirt from EYEBOGLER . Pair it with Jeans for a perfect Casual wear . front print give enhance look to your t-shirt .",
+      "price": 269,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786c357281949aeb1c6e9"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581044020-440640326.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581044021-867792362.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581044021-826068937.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581044021-811070891.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ed9facafd96b85db5b1"
+      },
+      "numericId": 15,
+      "createdAt": {
+        "$date": "2025-01-11T07:37:24.036Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:39:28.777Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822030facafd96b85db5c0"
+      },
+      "productName": "Men Solid Mandarin Collar Cotton Blend Black T-Shirt",
+      "description": "Switch up your everyday wardrobe with this trending t-shirt from TRIPR. Ideal to wear for all seasons, this versatile t-shirt features a Henley Neck and Half sleeves. Style it with a pair of straight-fit denims and white shoes to complete your outfit. . Regular fit . Comfortable essential with TRIPR Printing style and Solid pattern",
+      "price": 219,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786c357281949aeb1c6e9"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581168765-228512782.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581168765-782424359.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581168765-744335449.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581168765-239741003.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581168766-569760808.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ed9facafd96b85db5b1"
+      },
+      "numericId": 16,
+      "createdAt": {
+        "$date": "2025-01-11T07:39:28.776Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:41:13.829Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822099facafd96b85db5c6"
+      },
+      "productName": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "description": "This shirt is smooth and delicate against the skin thanks to a painstaking enzyme-wash bio wash treatment that takes comfort to new levels. Every time you wear the shirt, you will feel unmatched comfort as its plush softness envelops you, making it a pleasure to wear every day.",
+      "price": 349,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786c357281949aeb1c6e9"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581273816-586131958.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581273817-497512397.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581273817-881330852.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581273817-741186755.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581273817-162973101.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ed9facafd96b85db5b1"
+      },
+      "numericId": 17,
+      "createdAt": {
+        "$date": "2025-01-11T07:41:13.828Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:43:18.383Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822116facafd96b85db5cc"
+      },
+      "productName": "Men Printed Round Neck Polyester Blue T-Shirt",
+      "description": "Featuring a round neck design, this T-shirt provides a regular fit and ensures comfort, making it ideal for casual settings. It offers a balanced appearance suitable for any body shape, and it pairs effortlessly with various bottoms, from jeans to shorts, enhancing its versatility in your wardrobe.",
+      "price": 342,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786c357281949aeb1c6e9"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581398364-287307962.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581398365-170209801.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581398365-869879930.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581398366-202944014.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581398366-444230987.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ed9facafd96b85db5b1"
+      },
+      "numericId": 18,
+      "createdAt": {
+        "$date": "2025-01-11T07:43:18.381Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:44:58.728Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782217afacafd96b85db5d2"
+      },
+      "productName": "Oversized Men Printed, Typography Round Neck Pure Cotton Navy Blue T-Shirt",
+      "description": "This oversized, relaxed fit longline t-shirt features a brand logo typography print and is perfect for casual wear. The relaxed fit will make you feel at ease, while the longline and drop shoulder sleeves are always a great option for anyone who wants to feel free and relaxed. This amazing t-shirt is from the collection and can be paired with blue ribbed jeans and sneakers for a casual outing. This brand logo typography printed t-shirt is a must-have in your wardrobe collection. Have all the fun with this comfortable oversized t-shirt and wear your style with a touch of fashion and comfort.",
+      "price": 349,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786c357281949aeb1c6e9"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581498715-449780487.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581498715-402483153.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581498715-141892694.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581498715-475890544.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581498715-995350675.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ed9facafd96b85db5b1"
+      },
+      "numericId": 19,
+      "createdAt": {
+        "$date": "2025-01-11T07:44:58.726Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:48:27.390Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782224bfacafd96b85db5d8"
+      },
+      "productName": "ARIZON DIY Plastic Building Blocks for Kids 100+ pcs  (Multicolor)",
+      "description": "Little kids love things bright and colorful. They are easily attracted to them. Colorful Learning Blocks set to make your little one playtime educational yet fun. High Quality Building Blocks, Security, Environmental Protection, No Burr, Slick Not To Injury.",
+      "price": 689,
+      "stock": 50,
+      "categories": {
+        "$oid": "67778c2683ac83f41d794e20"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581707381-132374841.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581707381-516190810.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581707381-226561857.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581707381-380899413.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581707381-354717137.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ec0facafd96b85db5a9"
+      },
+      "numericId": 20,
+      "createdAt": {
+        "$date": "2025-01-11T07:48:27.389Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:51:31.422Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822303facafd96b85db5de"
+      },
+      "productName": "The Ace Card company Bridge Playing Cards with Hard Shell Case (2 Decks)  (Multicolor, Red, Black)",
+      "description": "\n100% Plastic: Premium Plastic Playing cards comes with case for storage and longer life. Content: 1 set contains 2 packs of high quality plastic playing cards. High quality plastic playing cards with soft cut edges for easy handling.",
+      "price": 199,
+      "stock": 50,
+      "categories": {
+        "$oid": "67778c2683ac83f41d794e20"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581891410-287829453.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581891410-847233152.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581891410-43426705.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581891411-753227481.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736581891411-733687811.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ec0facafd96b85db5a9"
+      },
+      "numericId": 21,
+      "createdAt": {
+        "$date": "2025-01-11T07:51:31.420Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:54:00.226Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822398facafd96b85db5e4"
+      },
+      "productName": "FTAFAT Best baby gift happy home/house educational learning creative kids puzzle toys  (52 Pieces)",
+      "description": "This toy will help to increase your baby's interest in learning and building strong memory. Various digital remark in different colors and will help kids to learn different names of colors through fun play.",
+      "price": 199,
+      "stock": 50,
+      "categories": {
+        "$oid": "67778c2683ac83f41d794e20"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582040215-38138681.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582040215-296491262.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582040215-641386735.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582040215-577913461.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582040215-131552349.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ec0facafd96b85db5a9"
+      },
+      "numericId": 22,
+      "createdAt": {
+        "$date": "2025-01-11T07:54:00.225Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:55:35.971Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678223f7facafd96b85db5ea"
+      },
+      "productName": "Sagar Enterprises 36 Tiles Kids Puzzle Mats ABCD (Multicolor)  (36 Pieces)\n",
+      "description": "MATS Puzzle for Kids For a little one who is just starting to learn their A-B-Cs and 1-2-3s, this 36 pcs Mat Puzzle is perfect to encourage hands on learning. Each of our flexible puzzle pieces can be built into a variety of different shapes like mini house/poll/tube/boxes/words from large foam building blocks to the perfect playroom Mat , Play with Interlocking Puzzle Pieces Fun Learning\n",
+      "price": 199,
+      "stock": 50,
+      "categories": {
+        "$oid": "67778c2683ac83f41d794e20"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582135961-421621305.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582135961-141619018.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582135962-429453747.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582135962-643400899.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582135962-894724747.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ec0facafd96b85db5a9"
+      },
+      "numericId": 23,
+      "createdAt": {
+        "$date": "2025-01-11T07:55:35.969Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T07:57:05.546Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822451facafd96b85db5f0"
+      },
+      "productName": "Revive HOT SELLING TRENDING 54PCS JENGAA WOODEN BLOCK STACKING GAME WITH 4 DICES(9inch) Board Game Accessories",
+      "description": "Best Stacking game ever- The game which unites family, friends and kids or adults. Contains 54 High quality wooden blocks and 4pcs Dice with smooth edges and plane surface. Best game for improving Math among kids in a fun way. Good for improving learning ability and mental ability for your kids. This game can be played by adults, family or kids during evening or vacation. Perfect for all ages. Play like NORMAL Play with Dice and Total it and remove blocks as per total. Make the Game a bit challenging for adults and teach your kid Addition or multiplication in fun way.\n",
+      "price": 549,
+      "stock": 50,
+      "categories": {
+        "$oid": "67778c2683ac83f41d794e20"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582225534-611406549.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582225534-158826627.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582225534-855798058.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582225534-771461155.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582225534-599685255.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ec0facafd96b85db5a9"
+      },
+      "numericId": 24,
+      "createdAt": {
+        "$date": "2025-01-11T07:57:05.544Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:01:00.321Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782253cfacafd96b85db5f6"
+      },
+      "productName": "Oliveware Teso Pro Lunch Box | 3 Stainless Steel Containers",
+      "description": "Oliveware Teso Pro Lunch Box is made using only the best quality materials that are European Food Grade Virgin raw materials. Ideal for office executives and college students, 3 unique tight and spill proof containers that keep food and beverage fresh and crisp for hours. The Lunch box set contains 1x290ml, 1x450ml, 1x600ml Stainless Steel containers, with 1x130ml Plastic Pickel Box and 1x750ml Stainless Steel Bottle, with 1 Steel fork and 1 Steel Spoon. The containers have air tight lids. This will prevent moisture from damaging your cooked food. These lids are also leak-proof so your food will not come out from the container even if it's semi-liquid.\n",
+      "price": 1099,
+      "stock": 50,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582460305-866812647.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582460305-596798046.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582460305-234500941.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582460305-886233005.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582460305-68675615.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ea2facafd96b85db5a1"
+      },
+      "numericId": 25,
+      "createdAt": {
+        "$date": "2025-01-11T08:01:00.319Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:04:03.409Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678225f3facafd96b85db5fc"
+      },
+      "productName": "MILTON Executive 3 Containers Lunch Box  (1010 ml, Thermoware)",
+      "description": "Belt For Easy Carrying, Belt For Easy Carrying, Comes With A Plastic Fork And spoon, Comes With A Plastic Fork And spoon\n",
+      "price": 899.02,
+      "stock": 50,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582643397-171601516.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582643397-344371245.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582643397-148198287.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582643398-323543332.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582643398-571465957.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ea2facafd96b85db5a1"
+      },
+      "numericId": 26,
+      "createdAt": {
+        "$date": "2025-01-11T08:04:03.408Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:05:28.176Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822648facafd96b85db602"
+      },
+      "productName": "FABER Hob/Hobtop Utopia HT 804 BR CI Glass Automatic Hob  (4 Burners)\n",
+      "description": "Faber Hob creates a modern style statement with its compact and graceful design. It can be used both as a hobtop as well as a hob. The hob can be fixed in kitchen platform or can be placed on platform as per your requirement. This Hob has toughened Black Glass 8mm Edge Glass Finish. The glass finish is not only durable and long-lasting but also beautifies the aesthetics of your kitchen. Our modern hobs come with multi-flame burners; you can individually control the flame on the interior and exterior ring of the burner to precisely adjust the cooking temperature. Apart from improving functionality in your cooking bay, Faber hobs work great for elevating the aesthetics of your kitchen as well.\n",
+      "price": 899,
+      "stock": 50,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582728165-981359629.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582728166-249556105.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582728166-132657754.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582728166-443466477.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ea2facafd96b85db5a1"
+      },
+      "numericId": 27,
+      "createdAt": {
+        "$date": "2025-01-11T08:05:28.175Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:07:48.791Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678226d4facafd96b85db608"
+      },
+      "productName": "Decent Jumbo Aluminium 80 L Outer Lid Pressure Cooker  (Aluminium)\n",
+      "description": "Suitable for boiling and fast-cooking of all kinds of food, this multi-purpose Decent Pressure Cooker is just what you need to get your cooking tasks in order. • Cook Fast and Safely A Precision Weight Valve incorporated in this pressure cooker regulate its steam pressure to ensure quick and safe cooking. • Safety Valve Its lid features a safety support device which releases excess steam through the small hole when pressure in the cooker rises beyond a safe level. • Sturdy Handles This cooker’s handles are aesthetically pleasing and offer an easy grip. These handles also feature lock arrangements which ensure smooth un-directional rotation. These design detailing ensure a durable and efficient use, and also facilitate an easy fit. Two screws fitted into the body handle provide added strength. • Ergonomically Designed Gasket Made of food-grade rubber, this cooker cooks food without contaminating the colour, taste, or odor of the food in it. • Gasket Release System This feature serves as a safe outlet for pressure in the cooker. How it works is it bulges and releases steam through in case there is a blockage of the vent tube. • A Sturdy Build Made of superior-quality virgin aluminium, this pressure cooker is durable and is resistant to scratches or stains. • Heavy Base Its thick and machine-pressed bottom is slightly curved to ensure that its shape is retained for a long time & prevent burning food. You can use this heavy base pressure cooker and gas stoves\n",
+      "price": 699,
+      "stock": 50,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582868777-699431349.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582868777-173105229.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582868777-699228784.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582868777-915191586.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736582868777-219961092.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ea2facafd96b85db5a1"
+      },
+      "numericId": 28,
+      "createdAt": {
+        "$date": "2025-01-11T08:07:48.789Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:10:02.487Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782275afacafd96b85db60e"
+      },
+      "productName": "Voltas Minimagic Pure T-6210193 Bottled Water Dispenser",
+      "description": "Voltas Minimagic Pure T-6210193 Bottled Water DispenserVoltas Minimagic Pure T-6210193 Bottled Water DispenserVoltas Minimagic Pure T-6210193 Bottled Water Dispenser",
+      "price": 4499,
+      "stock": 50,
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736583002476-1907923.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736583002476-821065058.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736583002476-154916401.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736583002476-347311816.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736583002476-262364416.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821ea2facafd96b85db5a1"
+      },
+      "numericId": 29,
+      "createdAt": {
+        "$date": "2025-01-11T08:10:02.486Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:31:22.913Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822c5afacafd96b85db614"
+      },
+      "productName": "AXE Intense Body Spray - For Men  (215 ml, Pack of 3)",
+      "description": "Introducing the Intense body spray by AXE. It offers a wide range of long-lasting fragrances, no-gas perfumes and male grooming products, Axe is your wingman for all your daily grooming needs. These deodorants for men are formulated with 48HR Dual Action Technology that keeps you smelling great, feeling fresh and has a lasting odour-protection. So, now you know why Axe is the perfect pick for your daily grooming needs. Leave a strong, unforgettable impression wherever you go, with a fragrance thats infused with woody notes of Cinnamon bark, Sandalwood and Vanilla. The Axe Intense long-lasting deo for men gets you used to emanating the best fragrance there is and whats more is its instant cooling effect, lending to the fresh feel of the product. Just twist the cap to reveal the nozzle. Then, hold the can straight up about 15cms away from your body. Spray on your underarms and chest. See, its just that easy and effortless to smell ready. Axes long-lasting deos boast a New Zinc formula that enhances odour protection. Furthermore, theyre also absolutely safe to spray directly onto the skin as theyre made with no parabens or dyes. When the going gets hot, the hot get going! With the new range of Axe deodorants for men, you get the best ever wingman there is. Pick between AXE Pulse, Dark Temptation, 24x7, Midnight and many more. Choose yours now!!!\n",
+      "price": 399,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786cc57281949aeb1c6ec"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584282897-464539221.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584282897-559241740.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584282897-252984610.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584282897-343584847.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584282897-840993256.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e81facafd96b85db599"
+      },
+      "numericId": 30,
+      "createdAt": {
+        "$date": "2025-01-11T08:31:22.910Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:33:05.818Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822cc1facafd96b85db61a"
+      },
+      "productName": "Gillette Mach3 Shaving Blades for Men with Micro Fin Skin Guard  (Pack of 16)\n",
+      "description": "Gillette mach3 men's razor blade refills feature stronger-than-steel blades that stay sharper longer. With sharper blades, it is engineered to last for 15 comfortable shaves. These Gillette razors feature a lubrication strip that glides to help protect your skin from redness and a micro fin skin guard that stretches the skin and prepares hair to be cut. Mach3 men's razor blade refills fit all mach3 razors. Gillette mach3 gives a better shave than a new 2-bladed ordinary razor even after 5 weeks.\n",
+      "price": 1452,
+      "stock": 49,
+      "categories": {
+        "$oid": "677786cc57281949aeb1c6ec"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584385808-732569364.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584385808-271025319.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584385808-332636079.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584385808-80879571.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584385808-143038439.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e81facafd96b85db599"
+      },
+      "numericId": 31,
+      "createdAt": {
+        "$date": "2025-01-11T08:33:05.816Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-21T12:54:25.171Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822d27facafd96b85db620"
+      },
+      "productName": "PARK AVENUE Luxury Grooming Kit for Men  (8 Items in the set)",
+      "description": "Introducing the Park Avenue Luxury Grooming Kit your go-to solution for a true champions.This comprehensive shaving kit for men includes everything you need for a top-notch grooming experience. From a precision-engineered razor to a selection of grooming essentials like shaving gel for men, this grooming kit for men is designed to cater to your every grooming need.This Park Avenue Luxury Grooming Collection Kit is the perfect gift for men, husband and boyfriend. It works as a perfect option for Valentines Day,Christmas gift, New Year gift, Diwali gift or birthday gift, anniversary gift etc.\n",
+      "price": 799,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786cc57281949aeb1c6ec"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584487433-198271634.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584487433-321994575.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584487433-796501120.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584487433-591545350.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584487434-511935815.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e81facafd96b85db599"
+      },
+      "numericId": 32,
+      "createdAt": {
+        "$date": "2025-01-11T08:34:47.443Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:36:14.855Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822d7efacafd96b85db626"
+      },
+      "productName": "MUUCHSTAC Ocean for Men, Fights Acne & Pimple, Brighten Skin, All Skin Types Face Wash  (200 ml)",
+      "description": "Freshness of the sea breeze with blast fragrance specifically designed for Men to clean the deepest of the pores & for a long-lasting glowing skin. Formulated with Active Ingredients that take Care of your skin & ensure perfect skin health by removing excessive unnecessary oils. It is Sulfate free and this is a baby care product for all type of skins and thus does not cause irritation and itchiness in the eyes.",
+      "price": 699,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786cc57281949aeb1c6ec"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584574843-866191600.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584574843-427075053.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584574843-124915920.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584574843-288927583.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584574843-158483922.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e81facafd96b85db599"
+      },
+      "numericId": 33,
+      "createdAt": {
+        "$date": "2025-01-11T08:36:14.854Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T08:38:08.027Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67822df0facafd96b85db62c"
+      },
+      "productName": "Parachute Advansed Men Classic Aftershower Hair Cream  (300 g)\n",
+      "description": "Style your hair the way you want every day with gentle nourishment by applying the Parachute Advansed Men. This after-shower hair cream contains Coconut Milk Proteins and a Natural Cocolipid Formula to protect and nourish your hair",
+      "price": 259,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786cc57281949aeb1c6ec"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584688015-104072628.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584688015-349282076.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584688015-917347272.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584688015-413402301.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736584688015-517966512.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e81facafd96b85db599"
+      },
+      "numericId": 34,
+      "createdAt": {
+        "$date": "2025-01-11T08:38:08.026Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T09:01:19.216Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782335ffacafd96b85db632"
+      },
+      "productName": "Xiaomi 14 CIVI (Shadow Black, 256 GB)  (8 GB RAM)",
+      "description": "With its Leica 50 MP Professional Camera System, which includes three lenses for breathtaking HDR, portraits, and ultra-wide shots, the Xiaomi 14 CIVI redefines smartphone greatness. With its 32 MP Beauty and ultra-wide lenses, the Dual Selfie AI Camera guarantees flawless group photos and selfies. Take pleasure in 4K video recording with Pro LUTs and Master Cinema Mode for films with a cinematic look. Vibrant, fluid images are presented by its 1.5K 120Hz AMOLED Floating Quad Curve Design, which is shielded by Gorilla Glass Victus 2. It weighs just 177 grammes and is very thin at 7.4 mm. With up to 16 GB of RAM and 512 GB of storage, it offers excellent performance, thanks to the third-generation Snapdragon 8s and Pascal T1 processor. 1.4 days of use are possible with the 4700 mAh battery while using 67 W Turbo Charge. Utilising Xiaomi HyperOS guarantees a smooth and customised experience. The Xiaomi 14 CIVI offers the best smartphone experience by fusing power, style, and innovative technology.\n",
+      "price": 259,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586079197-887652881.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586079197-90781026.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586079197-355528794.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586079197-911879020.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586079197-52735060.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e48facafd96b85db591"
+      },
+      "numericId": 35,
+      "createdAt": {
+        "$date": "2025-01-11T09:01:19.214Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T09:03:41.077Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678233edfacafd96b85db638"
+      },
+      "productName": "Redmi 7A (Matte Black, 32 GB)  (2 GB RAM)",
+      "description": "With the Redmi 7A smartphone, you can access your digital world right in the palm of your hand. It is crafted and designed to ensure smooth operation and seamless performance. It comes with an HD Full Screen Display that enhances your viewing experience. Also, as it comes with up to 256 GB of expandable storage, you can store your favourite videos, photos, and songs and enjoy them anytime and anywhere. It also comes with powerful rear and front cameras that let you click stunning pictures and selfies. Access all these features and more, such as the High-volume Speaker, and Headphone-free FM Radio by unlocking the Redmi 7A instantly using the AI Face Unlock Technology.\n\n",
+      "price": 6999,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586221065-956540354.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586221066-958778029.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586221066-397251533.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586221066-413397309.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586221066-205155638.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e48facafd96b85db591"
+      },
+      "numericId": 36,
+      "createdAt": {
+        "$date": "2025-01-11T09:03:41.076Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T09:05:29.384Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67823459facafd96b85db63e"
+      },
+      "productName": "Mi 11 Lite (Vinyl Black, 128 GB)  (8 GB RAM)\n",
+      "description": "Get ready to steal glances wherever you go with the Mi 11 Lite smartphone. Featuring a slim and lightweight construction, this functional and versatile smartphone is sure to make you look your stylish best. It features a stunning 64 MP camera, with TetraPixel technology and 23 Director modes, to help you capture life's precious moments in all their glory. Moreover, it runs on the Qualcomm Snapdragon 732G processor, offering smooth performance and seamless multitasking capabilities at all times. What's more, it is equipped with a 4250 mAh all-day battery, to keep you company for long hours without having to worry about a low-battery notification.\n\n\n",
+      "price": 11459,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586329372-350003602.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586329372-321976572.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586329372-783583374.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586329372-137578335.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586329372-474262306.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e48facafd96b85db591"
+      },
+      "numericId": 37,
+      "createdAt": {
+        "$date": "2025-01-11T09:05:29.381Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T09:07:07.143Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678234bbfacafd96b85db644"
+      },
+      "productName": "Redmi Note 7S (Sapphire Blue, 32 GB)  (3 GB RAM)#JustHere\n",
+      "description": "Shoot amazing pictures like a pro with the Redmi Note 7S which features a 48 MP + 5 MP dual rear camera setup.\n\n",
+      "price": 7999,
+      "stock": 49,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586427132-16517564.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586427132-864163354.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586427132-41576365.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586427132-506651561.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586427132-853013434.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e48facafd96b85db591"
+      },
+      "numericId": 38,
+      "createdAt": {
+        "$date": "2025-01-11T09:07:07.142Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-22T07:34:06.152Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6782358dfacafd96b85db64a"
+      },
+      "productName": "Redmi Note 7 Pro (Nebula Red, 64 GB)  (4 GB RAM)#JustHere",
+      "description": "Whether it’s work or entertainment, the Redmi Note 7 Pro challenges all odds and provides a truly immersive and enriched smartphone experience. Its 2.0 GHz Qualcomm Snapdragon 675 processor makes multitasking easy and it also comes with a (48 MP + 5 MP) dual-rear camera and a 13 MP front camera which let you click truly beautiful pictures. What’s more, the Face Unlock features makes unlocking this phone a piece of cake.\n\n\n",
+      "price": 11990,
+      "stock": 50,
+      "categories": {
+        "$oid": "677786bc57281949aeb1c6e6"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586637849-821410601.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586637849-963159203.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586637849-656501478.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586637849-51030794.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736586637849-436659311.webp"
+      ],
+      "vendorId": {
+        "$oid": "67821e48facafd96b85db591"
+      },
+      "numericId": 38,
+      "createdAt": {
+        "$date": "2025-01-11T09:10:37.859Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-11T09:10:37.859Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "678893ffc412aed774989c8f"
+      },
+      "productName": "bottle",
+      "description": "plastic water bottle for man and child",
+      "price": 199,
+      "stock": 20,
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "categories": {
+        "$oid": "677b72f114eb78ef282711dc"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-211281464.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-247635775.webp",
+        "D:\\yogesh\\Node example\\e-commerce backend\\uploads\\productImage-1736164921760-105361590.webp\n"
+      ],
+      "createdAt": "2025-01-11T09:10:37.859+00:00",
+      "numericId": "39",
+      "updatedAt": "2025-01-11T09:10:37.859+00:00"
+    },
+    {
+      "_id": {
+        "$oid": "679329b571ace2d00cd44b5d"
+      },
+      "productName": "HEAD & SHOULDERS Cool Menthol Anti-Dandruff Shampoo for Scalp Protection  (340 ml)",
+      "description": "All types of shampoos are giving you best result for all types of hair problem all shampoo are best for you. Nourish your scalp with the moisturizing goodness of real natural effect softens and cleanses your hair leaving it healthier with every wash. Giving Long Strongest & Best Hair .giving You All Problems Free Hair Afte Use This Shampoo\n\n",
+      "price": 289,
+      "stock": 49,
+      "categories": {
+        "$oid": "679327e224e3d83f4a509cba"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697717269-691879226.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697717269-34629277.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697717269-182128381.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697717269-49382349.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697717270-843201037.webp"
+      ],
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 3,
+      "createdAt": {
+        "$date": "2025-01-24T05:48:37.293Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T05:53:46.380Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "67932a8e71ace2d00cd44b63"
+      },
+      "productName": "Meera Anti Dandruff Shampoo, With Small Onion And Fenugreek,Paraben Free  (1 L)",
+      "description": "Helps in fighting 4 problems of dandruff namely White flakes, itchiness, dry scalp and hair fall, One of the few natural anti dandruff shampoo available in market, Fenugreek helps in controlling the hair and makes your hair soft and smooth, First shampoo with small onion as key ingredient which helps in controlling dandruff , One of the few natural anti dandruff shampoo available in the market, Fenugreek helps in conditioning the hair and makes your hair soft and smooth � Anti-dandruff shampoo with the power of small onions and fenugreek � Small onions fight dandruff. Fenugreek strengthens and conditions hair � Helps in fighting 4 problems of dandruff namely White flakes, itchiness, dry scalp and hair fall � Gives deeply conditioned and nourished hair. Leaves behind a mesmerising fragrance � Formulated by haircare experts with finest ingredients � Small onions, Big difference!! � Ideal For : Men & Women � Package type : Dispenser| Country of origin: India Direction Of Use After washing your hair thoroughly take 2 to 3 drops of the shampoo on your palm. Then apply the shampoo gently massaging it all over your hair from the roots to the tips. Leave the shampoo on your hair for a couple of minutes & then rinse it off completely.\n\n",
+      "price": 602,
+      "stock": 50,
+      "categories": {
+        "$oid": "679327e224e3d83f4a509cba"
+      },
+      "productImage": [
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697934043-880096820.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697934043-124293227.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697934044-53397411.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697934044-182854323.webp",
+        "D:\\yogesh\\Node example\\e-commerce\\e-commerce backend\\uploads\\productImage-1737697934044-447695413.webp"
+      ],
+      "vendorId": {
+        "$oid": "6776713f2e6a926cf2d60564"
+      },
+      "numericId": 4,
+      "createdAt": {
+        "$date": "2025-01-24T05:52:14.057Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-24T05:52:14.057Z"
+      }
+    }
+  ]
+}
